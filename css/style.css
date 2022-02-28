@@ -1,0 +1,19 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Shade&family=Lora&display=swap');
+@import url('components/container.css');
+@import url('components/banner.css');
+@import url('components/card.css');
+@import url('components/button.css');
+
+body {
+	margin: 0;
+	font-family: 'Lora', serif;
+	background-color: darkviolet;
+}
+
+a{
+	font-family: 'Lora',cursive;
+	text-decoration: none;
+	text-align: center;
+	font-size: 30px;
+
